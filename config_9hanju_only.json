@@ -1,4 +1,9 @@
 {
+  "spider": "https://raw.kkgithub.com/2hacc/TVBox/main/jar/tvbox.txt;md5;265301f463ec681dcbba91897f20f08b",
+  "logo": "https://raw.kkgithub.com/2hacc/TVBox/main/logo.png",
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "lives": [
+  ],
   "sites": [
     {"key": "9hanju", "name": "新韩剧网", "type": 3, "api": "https://raw.githubusercontent.com/Saorise/k-boxsp/refs/heads/main/9hanju.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0, "timeout": 20}
   ]
